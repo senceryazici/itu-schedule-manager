@@ -1,5 +1,7 @@
 # Fancy, Windows Metro-Style Looking Weekly Schedule for Istanbul Technical University Students
 
+![Screenshot of the Application](Application.png)
+
 ## Usage
 
 - After you compile, move all the files under Release/ folder to your installation path ex: C:\Program Files\Weekly_Schedule
